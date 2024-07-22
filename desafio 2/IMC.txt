@@ -1,0 +1,33 @@
+Ajustes dos Critérios:
+
+Fitness: IMC < 20
+Sarado: IMC >= 20 e IMC < 30
+Fofinho: IMC >= 30
+
+Marcelo (75 kg, 1.85 m):
+
+IMC ≈ 21.91 -> Sarado
+
+Adriana (44 kg, 1.52 m):
+
+IMC ≈ 19.05 -> Fitness
+
+Ivone (65 kg, 1.55 m):
+
+IMC ≈ 27.06 -> Sarado
+
+Juarez (98 kg, 1.62 m):
+
+IMC ≈ 37.34 -> Fofinho
+
+Cristina (60 kg, 1.54 m):
+
+IMC ≈ 25.30 -> Sarado
+
+Ademar (105 kg, 1.95 m):
+
+IMC ≈ 27.59 -> Sarado
+
+Cristiano (88 kg, 1.88 m):
+
+IMC ≈ 24.88 -> Sarado

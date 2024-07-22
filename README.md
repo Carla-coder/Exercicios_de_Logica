@@ -1,1 +1,1 @@
-# Exercicios_de_Logica
+# Exercicios de Lógica em HTML CSS e Javascript
